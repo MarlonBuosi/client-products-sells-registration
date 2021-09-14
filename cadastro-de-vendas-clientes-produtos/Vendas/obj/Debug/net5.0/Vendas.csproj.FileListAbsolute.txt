@@ -1,0 +1,48 @@
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.exe
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.deps.json
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.dll
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+C:\Users\marlo\source\repos\Vendas\Vendas\bin\Debug\net5.0\Vendas.pdb
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.dll
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.pdb
+C:\Users\marlo\source\repos\Vendas\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.exe
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.deps.json
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.dll
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+D:\Dev\Visual Studio Repo\Vendas\Vendas\bin\Debug\net5.0\Vendas.pdb
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.csprojAssemblyReference.cache
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.dll
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.pdb
+D:\Dev\Visual Studio Repo\Vendas\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.exe
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.deps.json
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.json
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.dll
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\ref\Vendas.dll
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\bin\Debug\net5.0\Vendas.pdb
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.dll
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\ref\Vendas.dll
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.pdb
+D:\Dev\Visual Studio Repo\cadastro-de-vendas-clientes-produtos\Vendas\obj\Debug\net5.0\Vendas.genruntimeconfig.cache
