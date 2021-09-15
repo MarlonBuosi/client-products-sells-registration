@@ -5,3 +5,4 @@
   * Clone the project from this GitHub repository, make sure you have VisualStudio installed or any other IDE that runs C#.
   *  Open the project in the VisualStudio environment, and run it :)
 * It's supposed to be a calculator on the console, so do not expect any Windows Form.
+* The code is not in english because this was a college exercise.
